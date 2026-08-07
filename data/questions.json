@@ -1,0 +1,194 @@
+{
+  "questions": [
+    {
+      "id": "Q1",
+      "title": "你希望被什么样的光笼罩？",
+      "options": [
+        {
+          "id": "A",
+          "text": "透过树叶缝隙的、跳动的晨光",
+          "visual": "dappled morning sunlight filtering through leaves, warm golden green tones, hopeful atmosphere",
+          "psych": "希望与新生"
+        },
+        {
+          "id": "B",
+          "text": "清冷的、让万物轮廓清晰的月光",
+          "visual": "cold moonlight casting sharp shadows, silver and blue tones, quiet introspective atmosphere",
+          "psych": "内省与秩序"
+        },
+        {
+          "id": "C",
+          "text": "温暖如拥抱的、将影子拉长的暮光",
+          "visual": "warm golden hour sunset light, long dramatic shadows, nostalgic peaceful atmosphere",
+          "psych": "怀旧与平和"
+        },
+        {
+          "id": "D",
+          "text": "五颜六色的、来自霓虹招牌的迷幻光",
+          "visual": "vibrant neon lights in electric blue and magenta, cyberpunk aesthetic, energetic atmosphere",
+          "psych": "探索与刺激"
+        }
+      ]
+    },
+    {
+      "id": "Q2",
+      "title": "你脚下是什么样的大地？",
+      "options": [
+        {
+          "id": "A",
+          "text": "被薄雾缠绕的古老森林小径",
+          "visual": "a winding path through a misty ancient forest, towering twisted trees, moss-covered stones",
+          "psych": "寻路与成长"
+        },
+        {
+          "id": "B",
+          "text": "雨后倒映着霓虹的湿润城市街道",
+          "visual": "wet city street reflecting neon signs after rain, puddles mirroring the lights",
+          "psych": "繁华与孤独"
+        },
+        {
+          "id": "C",
+          "text": "开满不知名野花的、一望无际的草原",
+          "visual": "endless grassland covered in unknown wildflowers, gentle breeze, vast open sky",
+          "psych": "自由与辽阔"
+        },
+        {
+          "id": "D",
+          "text": "漂浮在云海之上的破碎浮空岛",
+          "visual": "floating islands above a sea of clouds, ancient crumbling ruins on the islands, magical",
+          "psych": "超脱与想象"
+        }
+      ]
+    },
+    {
+      "id": "Q3",
+      "title": "你的背包里，最重要的那件东西是什么？",
+      "options": [
+        {
+          "id": "A",
+          "text": "一本祖传的、密密麻麻写满笔记的旧书",
+          "visual": "clutching an ancient leather-bound book filled with handwritten notes and mystical runes",
+          "psych": "智慧与传承"
+        },
+        {
+          "id": "B",
+          "text": "一封从未寄出的、用火漆封缄的信",
+          "visual": "holding a sealed letter with a red wax seal, tied with a faded silk ribbon",
+          "psych": "情感与羁绊"
+        },
+        {
+          "id": "C",
+          "text": "一把简单但被磨得锃亮的工具刀",
+          "visual": "a simple but well-worn practical knife at the belt, handle polished from years of use",
+          "psych": "实干与可靠"
+        },
+        {
+          "id": "D",
+          "text": "一颗偶尔会自己发光的、温热的石头",
+          "visual": "a small warm stone glowing softly with inner light, cupped gently in both hands",
+          "psych": "灵性与直觉"
+        }
+      ]
+    },
+    {
+      "id": "Q4",
+      "title": "你最想遇到什么样的同伴？",
+      "options": [
+        {
+          "id": "A",
+          "text": "一只会说话、嘴贱但忠诚的猫",
+          "visual": "a small sarcastic black cat companion with gleaming intelligent eyes, perched on the shoulder",
+          "psych": "幽默与陪伴"
+        },
+        {
+          "id": "B",
+          "text": "一个沉默寡言但永远靠得住的旅人",
+          "visual": "a tall silent companion in a worn cloak, standing protectively nearby, dependable presence",
+          "psych": "信任与依靠"
+        },
+        {
+          "id": "C",
+          "text": "一个迷路的、需要你保护的笨拙小精灵",
+          "visual": "a tiny lost clumsy forest spirit with translucent wings, looking up with trusting eyes",
+          "psych": "守护与被需要"
+        },
+        {
+          "id": "D",
+          "text": "没有同伴，但你能听见风中传来的古老低语",
+          "visual": "standing alone, wind swirling around, faint ancient runes visible in the air currents",
+          "psych": "独处与精神指引"
+        }
+      ]
+    },
+    {
+      "id": "Q5",
+      "title": "这个世界正面临什么样的困境？",
+      "options": [
+        {
+          "id": "A",
+          "text": "人们的色彩正在慢慢褪去，世界在变灰",
+          "visual": "the edges of the world fading to monochrome grey, but the main subject still retains vibrant color",
+          "psych": "对抗麻木"
+        },
+        {
+          "id": "B",
+          "text": "一种让人忘记梦境的迷雾正在蔓延",
+          "visual": "a creeping fog that erases dreams, dreamlike fragments floating just out of reach in the mist",
+          "psych": "守护梦想"
+        },
+        {
+          "id": "C",
+          "text": "连接各个浮空岛的古老桥梁正在断裂",
+          "visual": "crumbling ancient stone bridges between floating islands, the gaps widening, urgency in the air",
+          "psych": "修复连接"
+        },
+        {
+          "id": "D",
+          "text": "不是困境，这是一个刚诞生的、等待被命名的新世界",
+          "visual": "a pristine newborn world, blank canvas-like, full of potential and wonder, creator's energy",
+          "psych": "创造与开拓"
+        }
+      ]
+    },
+    {
+      "id": "Q6",
+      "title": "这个世界以何种形状呈现？",
+      "options": [
+        {
+          "id": "A",
+          "text": "正方形——像一枚专属徽章",
+          "shape": "square",
+          "size": "1280*1280",
+          "compose_hint": "centered composition, balanced, iconic, like a personal emblem"
+        },
+        {
+          "id": "B",
+          "text": "竖长形——像一张人物立绘",
+          "shape": "portrait",
+          "size": "1104*1472",
+          "compose_hint": "tall vertical composition, full-body character focus, portrait-style"
+        },
+        {
+          "id": "C",
+          "text": "横长形——像电影的一个定格画面",
+          "shape": "landscape",
+          "size": "1472*1104",
+          "compose_hint": "wide cinematic horizontal composition, environmental storytelling, movie still"
+        },
+        {
+          "id": "D",
+          "text": "不规则的碎片形——像一块记忆的碎片",
+          "shape": "shard",
+          "size": "1280*1280",
+          "compose_hint": "fragmented composition, dreamlike, edges fading into darkness, like a memory shard"
+        }
+      ]
+    },
+    {
+      "id": "Q7",
+      "title": "给这个世界起一个名字吧。",
+      "type": "input",
+      "placeholder": "比如：回声之境、星落之森...（留空则由我们命名）"
+    }
+  ]
+}
